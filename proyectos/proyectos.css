@@ -1,0 +1,8 @@
+body {
+    background-color:  #2C2F33;
+    height: fit-content;
+}
+.dropdown-item:hover {
+    background-color: #41464c;
+    color: whitesmoke;
+}
